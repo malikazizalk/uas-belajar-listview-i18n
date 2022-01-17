@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حول العالم</string>
+
+    // Layout
+    <string name="pilih_gambar">(حدد صورة لفتح المعرض)</string>
+    <string name="daftar_topik_berita">قائمة أحدث الأخبار</string>
+    <string name="energi">طاقة</string>
+    <string name="energi_list_title">قائمة أخبار الطاقة</string>
+    <string name="keajaiban_dunia">يتعجب</string>
+    <string name="keajaiban_list_title">قائمة أخبار المعجزة</string>
+    <string name="pemimpin_negara">قائد</string>
+    <string name="pemimpin_list_title">زعيم قائمة الأخبار</string>
+    <string name="tokoh_teknologi">شكل</string>
+    <string name="tokoh_list_title">قائمة شخصيات الأخبار</string>
+
+    // Data Energi
+    <string name="biomassa_nama">الكتلة الحيوية</string>
+    <string name="biomassa_asal">النباتات والكائنات الحية حديثًا</string>
+    <string name="biomassa_bio">الطاقة الحيوية هي نوع من الطاقة المتجددة التي تأتي من الكتلة الحيوية. الكتلة الحيوية هي مادة عضوية تأتي من النباتات والكائنات الحية حديثًا. يعد استخدام الخشب في الموقد مثالاً على الكتلة الحيوية التي يعرفها معظم الناس.</string>
+    <string name="hidroelektrik_nama">الطاقة الكهرومائية</string>
+    <string name="hidroelektrik_asal">تدفق المياه من خلال توربينات السد</string>
+    <string name="hidroelektrik_bio">السدود هي ما يربطه معظم الناس بالطاقة الكهرومائية. يتدفق الماء عبر توربينات السد لتوليد الكهرباء ، وهو ما يعرف بمضخة تخزين الطاقة الكهرومائية. تستخدم الطاقة الكهرومائية للتيار قنوات لنقل المياه بدلاً من تدفقها عبر السدود.</string>
+    <string name="hidrogen_nama">هيدروجين</string>
+    <string name="hidrogen_asal">غاز الهيدروجين</string>
+    <string name="hidrogen_bio">يحتاج الهيدروجين إلى أن يتحد مع عناصر أخرى ، مثل الأكسجين لتكوين الماء لأنه لا يحدث بشكل طبيعي كغاز في حد ذاته. عند فصل الهيدروجين عن العناصر الأخرى ، يمكن استخدامه للوقود والكهرباء.</string>
+    <string name="tenaga_surya_nama">شمسي</string>
+    <string name="tenaga_surya_asal">الشمس</string>
+    <string name="tenaga_surya_bio">يتم الحصول على هذا النوع من الطاقة المتجددة من خلال التقاط الطاقة المشعة من ضوء الشمس وتحويلها إلى حرارة أو كهرباء أو ماء ساخن. يمكن للأنظمة الكهروضوئية (PV) تحويل ضوء الشمس مباشرة إلى كهرباء من خلال استخدام الخلايا الشمسية.</string>
+    <string name="panas_bumi_nama">الحرارة الأرضية</string>
+    <string name="panas_bumi_asal">غاز طبيعي</string>
+    <string name="panas_bumi_bio">الحرارة الجوفية محتجزة تحت القشرة الأرضية من تكوين الأرض قبل 4.5 مليار سنة ومن التحلل الإشعاعي. في بعض الأحيان ، تتسرب كميات كبيرة من هذه الحرارة بشكل طبيعي ، ولكن في نفس الوقت تنتج أحداثًا مألوفة ، مثل الانفجارات البركانية والسخانات.</string>
+    <string name="turbin_nama">التوربينات أو المروحة</string>
+    <string name="turbin_asal">ريح</string>
+    <string name="turbin_bio">تلتقط مزارع الرياح طاقة الرياح باستخدام التوربينات وتحويلها إلى كهرباء. يمكن لأنظمة توليد الرياح التجارية أن تزود العديد من المنظمات المختلفة بالطاقة ، بينما يتم استخدام توربين رياح واحد للمساعدة في تكملة منظمة طاقة موجودة مسبقًا.</string>
+
+    // Data Keajaiban Dunia
+    <string name="borobudur_nama">معبد بوروبودور</string>
+    <string name="borobudur_asal">إندونيسيا</string>
+    <string name="borobudur_bio">إطلاق صفحة منتزه بوروبودور ، معبد بوروبودور هو مبنى تاريخي تركته سلالة سيلايندرا من 780 إلى 840 م. يعد المعبد أحد مواقع التراث الثقافي لليونسكو هو أيضًا أكبر تراث بوذي في العالم.</string>
+    <string name="colosseum_nama">الكولوسيوم</string>
+    <string name="colosseum_asal">إيطاليا</string>
+    <string name="colosseum_bio">تم استخدام الكولوسيوم في السابق كمكان لعروض المصارعة ، حيث يبارز البشر الوحوش. كان الكولوسيوم أيضًا مكانًا لمشاهدة سباقات المركبات والمبارزات الأخرى خلال الإمبراطورية الرومانية. كان العرض ترفيهيًا للإمبراطور فيسباسيان.</string>
+    <string name="kabah_nama">الكعبة</string>
+    <string name="kabah_asal">المملكة العربية السعودية</string>
+    <string name="kabah_bio">تقع الكعبة في منتصف المسجد الحرام وهي الاتجاه الذي يتجه المسلمون عند الصلاة. الكعبة في اللغة العربية تعني المكعب. هذا المبنى المقدس مربع الشكل ومكسو بالحرير وطبقات من القطن. يعتقد المسلمون أن الكعبة قد بناها النبي إبراهيم ونجله النبي إسماعيل.</string>
+    <string name="menara_pisa_nama">برج بيزا</string>
+    <string name="menara_pisa_asal">إيطاليا</string>
+    <string name="menara_pisa_bio">برج بيزا فريد من نوعه لأن شكله الذي تم بناؤه منذ البداية لم يكن منتصباً على الإطلاق.</string>
+    <string name="tajmahal_nama">تاج محل</string>
+    <string name="tajmahal_asal">الهند</string>
+    <string name="tajmahal_bio">تاج محل هو نصب تذكاري في أغرا بالهند ، والذي كان يحمل في السابق اسم امرأة ، وهي Arjumand Banu Begum. أُطلق على هذه المرأة لقب ممتاز محل ، والتي أصبحت بدورها سابقة لاسم تاج محل.</string>
+    <string name="tembok_cina_nama">سور الصين العظيم</string>
+    <string name="tembok_cina_asal">الصين</string>
+    <string name="tembok_cina_bio">سور الصين العظيم هو أطول جدار في العالم بهندسة معمارية قديمة. هذا الجدار موجود منذ 2300 عام وتم بناؤه في أماكن مختلفة لحماية الخطوط الإقليمية. ساهمت السلالات الأربع في الصين في إنشاء الجدار العملاق الذي عمل أيضًا على منع هجمات العدو وطريق تجارة الحرير في العصور القديمة.</string>
+
+    // Data Pemimpin Negara
+    <string name="jokowi_nama">جوكو ويدودو</string>
+    <string name="jokowi_asal">إندونيسيا</string>
+    <string name="jokowi_bio">الأشعة تحت الحمراء. جوكو ويدودو دي كيه (من مواليد 21 يونيو 1961) ، أو المعروف باسم جوكووي ، هو رئيس إندونيسيا الذي شغل منصبه منذ 20 أكتوبر 2014. انتخب في الانتخابات الرئاسية لعام 2014 ، أصبح جوكووي أول رئيس لإندونيسيا في التاريخ الذي لم يأت من خلفية النخبة ، السياسة أو الجيش الإندونيسي. انتخب مع نائب الرئيس محمد يوسف كالا وأعيد انتخابه مع نائب الرئيس معروف أمين في الانتخابات الرئاسية لعام 2019.</string>
+    <string name="kim_jong_nama">كيم جونغ أون</string>
+    <string name="kim_jong_asal">كوريا الشمالية</string>
+    <string name="kim_jong_bio">كيم جونغ أون (من مواليد 8 يناير 1983) هو المرشد الأعلى لجمهورية كوريا الشعبية الديمقراطية ، والمعروفة أيضًا باسم كوريا الشمالية. وهو نجل كيم جونغ إيل وحفيد كيم إيل سونغ. قبل أن يصبح زعيمًا لكوريا الشمالية ، شغل منصب السكرتير الأول لحزب العمال الكوري ، والرئيس الأول للجنة العسكرية المركزية ، والقائد الأعلى للجيش الشعبي الكوري ، والمكتب السياسي لحزب العمال الكوري.</string>
+    <string name="salman_nama">الملك سلمان</string>
+    <string name="salman_asal">المملكة العربية السعودية</string>
+    <string name="salman_bio">سلمان بن عبد العزيز آل سعود (مواليد 31 ديسمبر 1935) هو الملك السابع للمملكة العربية السعودية ، وخادم الحرمين الشريفين ، والزعيم الحالي لآل سعود. شغل منصب نائب المحافظ ثم حاكم الرياض لمدة 48 عامًا من 1963 إلى 2011. تم تعيين سلمان ملكًا للمملكة العربية السعودية في 23 يناير 2015 بعد وفاة أخيه غير الشقيق الملك عبد الله.</string>
+    <string name="vladimir_nama">الرئيس الروسي فلاديمير بوتين</string>
+    <string name="vladimir_asal">روسيا</string>
+    <string name="vladimir_bio">فلاديمير فلاديميروفيتش بوتين (من مواليد 7 أكتوبر 1952) سياسي روسي ورئيس روسيا الحالي. وهو رئيس ثاني أطول ولاية في أوروبا بعد ألكسندر لوكاشينكو رئيس بيلاروسيا. بوتين هو رئيس روسيا منذ 7 مايو 2012.</string>
+    <string name="erdogan_nama">رجب طيب أردوغان</string>
+    <string name="erdogan_asal">ديك رومى</string>
+    <string name="erdogan_bio">رجب طيب أردوغان (من مواليد 26 فبراير 1954) هو سياسي تركي شغل منصب رئيس تركيا منذ عام 2014. شغل سابقًا منصب رئيس وزراء تركيا من 14 مارس 2003 إلى 28 أغسطس 2014. وهو أيضًا زعيم Adalet ve. حزب كالكنما (حزب العدالة والتنمية). في عام 2010 ، تم التصويت لإردوان باعتباره ثاني أكثر شخصية إسلامية نفوذاً في العالم.</string>
+    <string name="biden_nama">جو بايدن</string>
+    <string name="biden_asal">الولايات المتحدة الأمريكية</string>
+    <string name="biden_bio">جوزيف روبينيت بايدن جونيور (من مواليد 20 نوفمبر 1942) هو سياسي أمريكي شغل منصب الرئيس 46 للولايات المتحدة. بعد هزيمة منافسه دونالد ترامب في الانتخابات الرئاسية الأمريكية لعام 2020 ، أدى اليمين الدستورية كرئيس للولايات المتحدة رقم 46 في يناير. 20 ، 2021. هو عضو في الحزب الديمقراطي وشغل منصب النائب السابع والأربعين لرئيس الولايات المتحدة من 2009 إلى 2017 وعضو مجلس الشيوخ من ولاية ديلاوير من 1973 إلى 2009.</string>
+
+    // Data Tokoh Teknologi
+    <string name="elon_musk_nama">إيلون ماسك</string>
+    <string name="elon_musk_asal">الولايات المتحدة الأمريكية</string>
+    <string name="elon_musk_bio">Elon Reeve Musk FRS (من مواليد 28 يونيو 1971) هو رجل أعمال أمريكي ومخترع وصناعي. وهو المؤسس والرئيس التنفيذي لشركة SpaceX ، والرئيس التنفيذي ومهندس الإنتاج لشركة Tesla ، ومؤسس شركة The Boring Company ، ومؤسس Neuralink.</string>
+    <string name="jackma_nama">جاك ما</string>
+    <string name="jackma_asal">الصين</string>
+    <string name="jackma_bio">جاك ما (ولد في 10 سبتمبر 1964) رجل أعمال صيني. وهو المؤسس والرئيس التنفيذي لمجموعة علي بابا ، أكبر شركة للتجارة الإلكترونية في الصين. إنه أول مواطن صيني يظهر في مجلة فوربس على الإطلاق ، وهو مدرج في قائمة الملياردير العالمي. في عام 2015 ، دخل قائمة الأشخاص الأكثر نفوذاً في العالم في المرتبة 22. استقال جاك ما رسميًا من مجلس إدارة علي بابا في 30 سبتمبر 2019.</string>
+    <string name="jef_bezos_nama">جيف بيزوس</string>
+    <string name="jef_bezos_asal">الولايات المتحدة الأمريكية</string>
+    <string name="jef_bezos_bio">جيفري بريستون بيزوس (من مواليد 12 يناير 1964) هو أغنى رجل أعمال في العالم في التاريخ الحديث. وهو المؤسس ورئيس مجلس الإدارة والرئيس التنفيذي والرئيس ومالك الأغلبية لأكبر شركة تكنولوجيا في العالم Amazon.com. تخرج بيزوس من جامعة برينستون ، وكان عضوًا في Phi Beta Kappa ، وعمل كمحلل مالي لشركة D. E. Shaw and Co. قبل تأسيس أمازون عام 1994. اختارته مجلة تايم شخصية العام.</string>
+    <string name="zuck_nama">مارك زوكربيرج</string>
+    <string name="zuck_asal">الولايات المتحدة الأمريكية</string>
+    <string name="zuck_bio">مارك إليوت زوكربيرج (مواليد 14 مايو 1984) هو مبرمج كمبيوتر ورائد أعمال الإنترنت. اشتهر بإنشاء موقع التواصل الاجتماعي Facebook. تم تأسيس Facebook كشركة خاصة في عام 2004 من قبل Zuckerberg وزملائه في الفصل Dustin Moskovitz و Eduardo Saverin و Chris Hughes عندما كانوا طلابًا في جامعة هارفارد.</string>
+    <string name="sundar_pichai_nama">سوندار بيتشاي</string>
+    <string name="sundar_pichai_asal">الهند</string>
+    <string name="sundar_pichai_bio">بيتشاي سوندراجان ، المعروف باسم سوندار بيتشاي (من مواليد 12 يوليو 1972) ، هو الرئيس التنفيذي (الرئيس التنفيذي) لشركة Alphabet Inc. وشركتها الفرعية Google. انضم بيتشاي إلى Google في عام 2004 ، حيث شغل منصب رئيس إدارة المنتجات والابتكار في برامج عملاء Google ، بما في ذلك Google Chrome و Chrome OS و Google Drive. وهو مسؤول أيضًا عن تطوير التطبيقات مثل Gmail وخرائط Google.</string>
+    <string name="tim_cook_nama">تيم كوك</string>
+    <string name="tim_cook_asal">الولايات المتحدة الأمريكية</string>
+    <string name="tim_cook_bio">تيموثي دونالد كوك (من مواليد 1 نوفمبر 1960) هو الرئيس التنفيذي (الرئيس التنفيذي) لشركة الوسائط المتعددة Apple Inc. يعمل في شركة Apple منذ عام 1998. وظيفته الرئيسية هي إدارة العمليات اليومية للشركة. أصبح الرئيس التنفيذي بعد استقالة ستيف جوبز من المنصب في 24 أغسطس 2011.</string>
+
+    <string name="go_back">يعود</string>
+
+    //Profile
+    <string name="profile">الملف الشخصي للطالب</string>
+    <string name="nama">اسم</string>
+    <string name="aziz">: محمد مالك عزيز الكتبي</string>
+    <string name="nim">نيم</string>
+    <string name="prodi">برنامج الدراسة</string>
+    <string name="ti">: معلومات تقنية</string>
+    <string name="kls">فصل</string>
+    <string name="mk">عضو الكنيست</string>
+    <string name="promile">: برمجة المحمول</string>
+    <string name="smstr">نصف السنة</string>
+    <string name="tiga">: 3 (ثلاثة)</string>
+    <string name="hoby">هواية</string>
+    <string name="olahraga">: الرياضة ، القراءة ، تعلم البرمجة</string>
+    <string name="tekan">(اضغط على الصورة لفتح المعرض)</string>
+</resources>

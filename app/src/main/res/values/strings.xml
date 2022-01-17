@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Tentang Dunia</string>
+
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_topik_berita">List Berita Terkini</string>
+    <string name="energi">Energi</string>
+    <string name="energi_list_title">Daftar Berita Energi</string>
+    <string name="keajaiban_dunia">Keajaiban</string>
+    <string name="keajaiban_list_title">Daftar Berita Keajaiban</string>
+    <string name="pemimpin_negara">Pemimpin</string>
+    <string name="pemimpin_list_title">Daftar Berita Pemimpin</string>
+    <string name="tokoh_teknologi">Tokoh</string>
+    <string name="tokoh_list_title">Daftar Berita Tokoh</string>
+
+    // Data Energi
+    <string name="biomassa_nama">Biomassa</string>
+    <string name="biomassa_asal">Tumbuhan dan organisme yang baru hidup</string>
+    <string name="biomassa_bio">Bioenergi adalah jenis energi terbarukan yang berasal dari biomassa. Biomassa adalah bahan organik yang berasal dari tumbuhan dan organisme yang baru hidup. Menggunakan kayu di perapian Anda adalah contoh biomassa yang kebanyakan orang kenal.</string>
+    <string name="hidroelektrik_nama">Hidroelektrik</string>
+    <string name="hidroelektrik_asal">Air yang mengalir melalui turbin bendungan</string>
+    <string name="hidroelektrik_bio">Bendungan adalah apa yang paling banyak diasosiasikan orang dalam hal tenaga air. Air mengalir melalui turbin bendungan untuk menghasilkan listrik, yang dikenal sebagai tenaga air penyimpanan pompa. Tenaga air aliran sungai menggunakan saluran untuk mengalirkan air daripada mengalirkannya melalui bendungan.</string>
+    <string name="hidrogen_nama">Hidrogen</string>
+    <string name="hidrogen_asal">Gas hidrogen</string>
+    <string name="hidrogen_bio">Hidrogen perlu digabungkan dengan elemen lain, seperti oksigen untuk membuat air karena tidak terjadi secara alami sebagai gas dengan sendirinya. Ketika hidrogen dipisahkan dari elemen lain, hidrogen dapat digunakan untuk bahan bakar dan listrik.</string>
+    <string name="tenaga_surya_nama">Tenaga Surya</string>
+    <string name="tenaga_surya_asal">Matahari</string>
+    <string name="panas_bumi_nama">Panas Bumi</string>
+    <string name="panas_bumi_asal">Gas bumi</string>
+    <string name="panas_bumi_bio">Panas bumi adalah panas yang terperangkap di bawah kerak bumi dari pembentukan bumi 4,5 miliar tahun yang lalu dan dari peluruhan radioaktif. Terkadang sejumlah besar panas ini keluar secara alami, tetapi sekaligus, menghasilkan kejadian yang sudah dikenal, seperti letusan gunung berapi dan geyser.</string>
+    <string name="turbin_nama">Turbin atau Baling Baling</string>
+    <string name="turbin_asal">Angin</string>
+    <string name="turbin_bio">Ladang angin menangkap energi aliran angin dengan menggunakan turbin dan mengubahnya menjadi listrik. Sistem pembangkit tenaga angin kelas komersial dapat memberi daya pada banyak organisasi yang berbeda, sementara turbin angin tunggal digunakan untuk membantu melengkapi organisasi energi yang sudah ada sebelumnya.</string>
+
+    // Data Keajaiban Dunia
+    <string name="borobudur_nama">Candi Borobudur</string>
+    <string name="borobudur_asal">Indonesia</string>
+    <string name="borobudur_bio">Melansir laman Borobudur Park, Candi Borobudur adalah bangunan bersejarah peninggalan Dinasti Syailendra pada tahun 780 sampai 840 masehi. Candi yang merupakan Situs Warisan Budaya UNESCO ini juga merupakan peninggalan Budha yang terbesar di dunia.</string>
+    <string name="colosseum_nama">Colosseum</string>
+    <string name="colosseum_asal">Italia</string>
+    <string name="colosseum_bio">Colosseum dulunya digunakan sebagai tempat pertunjukan gladiator, manusia yang berduel dengan hewan buas. Colosseum juga menjadi tempat menonton balapan kereta dan duel lainnya di masa Kekaisaran Romawi. Pertunjukan tersebu merupakan hiburan bagi Kasiar Vespasianus.</string>
+    <string name="kabah_asal">Saudi Arabia</string>
+    <string name="menara_pisa_nama">Menara Pissa</string>
+    <string name="menara_pisa_asal">Italia</string>
+    <string name="menara_pisa_bio">Menara Pisa memang memiliki keunikan karena bentuknya yang sejak awal dibangun memang tak pernah tegak lurus berdiri.</string>
+    <string name="tajmahal_nama">Taj Mahal</string>
+    <string name="tajmahal_asal">India</string>
+    <string name="tajmahal_bio">Taj Mahal merupakan monumen di Agra, India, yang sebelumnya memiliki nama seorang wanita yaitu Arjumand Banu Begum. Wanita ini dijuluki sebagai Mumtaz Mahal, yang pada akhirnya menjadi cikal bakal pemberian nama Taj Mahal.</string>
+    <string name="tembok_cina_nama">Tembok Besar Cina</string>
+    <string name="tembok_cina_asal">Tiongkok</string>
+    <string name="tembok_cina_bio">Tembok Besar China merupakan tembok terpanjang yang pernah ada di dunia dengan arsitektur kuno. Tembok ini telah hadir sejak 2.300 tahun yang lalu dan dibangun ditempat yang berbeda untuk melindungi garis teritorial. Empat Dinasti China telah berjasa dalam berdirinya tembok raksasa yang juga berfungsi untuk pencegahan penyerangan musuh dan jalur perdagangan sutra pada jaman dahulu.</string>
+
+    // Data Pemimpin Negara
+    <string name="jokowi_nama">Joko Widodo</string>
+    <string name="jokowi_asal">Joko Widodo</string>
+    <string name="jokowi_bio">Ir. H. Joko Widodo DK ( lahir 21 Juni 1961), atau yang lebih akrab disapa Jokowi, adalah Presiden Indonesia yang mulai menjabat sejak 20 Oktober 2014. Terpilih dalam Pemilu Presiden 2014, Jokowi menjadi Presiden Indonesia pertama sepanjang sejarah yang bukan berasal dari latar belakang elite politik atau militer Indonesia. Ia terpilih bersama Wakil Presiden Muhammad Jusuf Kalla dan kembali terpilih bersama Wakil Presiden Maruf Amin dalam Pemilu Presiden 2019.</string>
+    <string name="kim_jong_nama">Kim Jong un</string>
+    <string name="kim_jong_asal">Korea Utara</string>
+    <string name="kim_jong_bio">Kim Jong un (lahir 8 Januari 1983) adalah Pemimpin Tertinggi Republik Demokratik Rakyat Korea, atau yang lebih dikenal dengan Korea Utara. Dia adalah putra Kim Jong il dan cucu dari Kim Il sung . Sebelum menjadi pemimpin Korea Utara, ia pernah menjabat sebagai Sekretaris Pertama Partai Buruh Korea, Ketua Pertama Komisi Militer Sentral, Panglima Tertinggi Tentara Rakyat Korea, dan Politbiro Partai Buruh Korea.</string>
+    <string name="salman_nama">Raja Salman</string>
+    <string name="salman_asal">Saudi Arabia</string>
+    <string name="salman_bio">Salman bin Abdulaziz al Saud (lahir 31 Desember 1935) adalah Raja Arab Saudi ketujuh, Penjaga Dua Kota Suci, dan pemimpin Wangsa Saud saat ini. Ia menjabat sebagai Wakil Gubernur dan kemudian menjadi Gubernur Riyadh selama 48 tahun dari tahun 1963 sampai 2011. Salman diangkat sebagai Raja Arab Saudi pada 23 Januari 2015 setelah kematian saudara tirinya, Raja Abdullah.</string>
+    <string name="vladimir_nama">Vladimir Putin</string>
+    <string name="vladimir_asal">Rusia</string>
+    <string name="vladimir_bio">Vladimir Vladimirovich Putin, (lahir 7 Oktober 1952) adalah seorang politikus Rusia, dan merupakan Presiden Rusia saat ini. Ia merupakan presiden dengan masa jabatan terlama kedua di Eropa setelah Alexander Lukashenko yang merupakan Presiden Belarus. Putin telah menjadi Presiden Rusia sejak 7 Mei 2012.</string>
+    <string name="erdogan_nama">Recep Tayyip Erdogan</string>
+    <string name="erdogan_asal">Turki</string>
+    <string name="erdogan_bio">Recep Tayyip Erdogan (lahir 26 Februari 1954) adalah seorang politikus Turki yang menjabat sebagai Presiden Turki sejak 2014. Sebelumnya, ia menjabat Perdana Menteri Turki sejak 14 Maret 2003 sampai 28 Agustus 2014. Ia juga seorang pimpinan Adalet ve Kalkinma Partisi (AKP, atau Partai Keadilan dan Pembangunan). Pada tahun 2010, Erdogan terpilih sebagai tokoh muslim ke 2 paling berpengaruh di dunia.</string>
+    <string name="biden_asal">Amerika Serikat</string>
+    <string name="biden_bio">Joseph Robinette Biden Jr. (lahir 20 November 1942) adalah seorang politikus Amerika yang menjabat sebagai Presiden Amerika Serikat ke 46. Setelah mengalahkan Donald Trump yang merupakan pesaingnya saat pemilihan umum Presiden Amerika Serikat 2020, dia dilantik sebagai Presiden AS ke 46 pada 20 Januari 2021. Ia adalah anggota Partai Demokrat dan pernah menjabat sebagai Wakil Presiden Amerika Serikat ke 47 dari 2009 hingga 2017 serta Senator senior dari Delaware dari 1973 hingga 2009.</string>
+
+    // Data Tokoh Teknologi
+    <string name="elon_musk_nama">Elon Musk</string>
+    <string name="elon_musk_asal">Amerika Serikat</string>
+    <string name="jackma_nama">Jack Ma</string>
+    <string name="jackma_bio">Jack Ma (lahir 10 September 1964) merupakan seorang pebisnis berkebangsaan Tiongkok. Dia merupakan pendiri sekaligus Chairman Eksekutif dari Alibaba Group, perusahaan e commerce terbesar di Tiongkok. Dia merupakan warga Tiongkok Daratan pertama yang pernah muncul di majalah Forbes dan terdaftar sebagai biliuner dunia. Pada 2015, ia masuk dalam daftar orang paling berpengaruh di dunia pada urutan ke 22. Jack Ma secara resmi mengundurkan diri dari dewan direksi Alibaba pada 30 September 2019.</string>
+    <string name="jef_bezos_nama">Jeff Bezos</string>
+    <string name="jef_bezos_asal">Amerika Serikat</string>
+    <string name="jef_bezos_bio">Jeffrey Preston Bezos (lahir 12 Januari 1964) adalah pengusaha terkaya di dunia sepanjang sejarah modern. Ia adalah pendiri, ketua, CEO, presiden dan pemilik saham mayoritas perusahaan teknologi terbesar di dunia Amazon.com. Lulusan Universitas Princeton, Bezos pernah menjadi anggota Phi Beta Kappa, bekerja sebagai analis keuangan untuk D. E. Shaw dan Co. sebelum mendirikan Amazon pada tahun 1994. Ia pernah dipilih sebagai Person of the Year oleh majalah TIME.</string>
+    <string name="zuck_nama">Mark Zuckerberg</string>
+    <string name="zuck_asal">Amerika Serikat</string>
+    <string name="zuck_bio">Mark Elliot Zuckerberg (lahir 14 Mei 1984) adalah seorang pemrogram komputer dan pengusaha Internet. Ia dikenal karena menciptakan situs jejaring sosial Facebook. Facebook didirikan sebagai perusahaan swasta pada tahun 2004 oleh Zuckerberg dan teman sekelasnya Dustin Moskovitz, Eduardo Saverin, dan Chris Hughes ketika menjadi mahasiswa di Universitas Harvard.</string>
+    <string name="sundar_pichai_nama">Sundar Pichai</string>
+    <string name="sundar_pichai_asal">India</string>
+    <string name="sundar_pichai_bio">Pichai Sundarajan, lebih dikenal dengan Sundar Pichai (lahir 12 Juli 1972), adalah Chief Executive Officer (CEO) Alphabet Inc. dan subsidiarinya, Google. Pichai bergabung dengan Google pada 2004, ia menjabat sebagai pimpinan manajemen produk dan inovasi perangkat lunak klien Google, termasuk Google Chrome, Chrome OS, dan Google Drive. Ia juga bertanggungjawab atas pengembangan aplikasi seperti Gmail dan Google Maps.</string>
+    <string name="tim_cook_nama">Tim Cook</string>
+    <string name="tim_cook_asal">Amerika Serikat</string>
+    <string name="tim_cook_bio">Timothy Donald Cook (lahir 1 November 1960) adalah chief executive officer (CEO) di perusahaan multimedia Apple Inc. Ia sudah bekerja di Apple sejak 1998. Tugas utamanya adalah mengelola operasi harian di perusahaan tersebut. Ia menjadi CEO setelah Steve Jobs mundur dari jabatan itu pada 24 Agustus 2011.</string>
+
+    // Profile Mahasiswa
+    <string name="profile">PROFILE MAHASISWA</string>
+    <string name="nama">Nama</string>
+    <string name="aziz">: Muhamad Malik Aziz Al Kutbi</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">Prodi</string>
+    <string name="ti">: Teknik Informatika</string>
+    <string name="kls">Kelas</string>
+    <string name="mk">MK</string>
+    <string name="promile">: Pemrograman Mobile</string>
+    <string name="smstr">Semester</string>
+    <string name="tiga">: 3 (Tiga)</string>
+    <string name="hoby">Hoby</string>
+    <string name="olahraga">: Olahraga, Membaca, Belajar Coding</string>
+    <string name="tekan">(Tekan gambar untuk membuka galeri)</string>
+
+    <string name="go_back">Kembali</string>
+    <string name="tenaga_surya_bio">Jenis energi terbarukan ini diperoleh dengan menangkap energi radiasi dari sinar matahari dan mengubahnya menjadi panas, listrik, atau air panas. Sistem fotovoltaik (PV) dapat mengubah sinar matahari langsung menjadi listrik melalui penggunaan sel surya.</string>
+    <string name="kabah_bio">Kabah ada di tengah-tengah Masjidil Haram dan merupakan arah dimana umat Muslim menghadap ketika shalat. Kabah dalam bahasa Arab memiliki arti kubus. Bangunan suci ini memang berbentuk kotak dan terbungkus dengan sutra dan lapisan katun. Umat Muslim meyakini bahwa Kabah dibangun oleh Nabi Ibrahim dan putranya Nabi Ismail.</string>
+    <string name="biden_nama">Joe Biden</string>
+    <string name="elon_musk_bio">Elon Reeve Musk FRS (lahir 28 Juni 1971) adalah seorang pengusaha Amerika, penemu, dan industrialis. Dia adalah pendiri dan CEO SpaceX, CEO dan insinyur produksi untuk Tesla, pendiri The Boring Company, dan pendiri Neuralink.</string>
+    <string name="kabah_nama">kabah</string>
+    <string name="jackma_asal">China</string>
+
+</resources>
